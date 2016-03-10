@@ -129,7 +129,8 @@ body {
 
 /* Footer Styles */
 footer {
-    margin: 50px 0;
+    margin: 15px 0 0 15px;
+  
 }
 
 /* Responsive Styles */
@@ -152,6 +153,76 @@ footer {
 
 }
 
-.feature a {
+.feature {
+  margin-bottom: 40px;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+  background: transparent;
+  transition: background-color .4s ease-out;
   
 }
+.feature ul {
+  text-align: left;
+  margin: auto;
+  width: 80%;
+  min-height: 82px;
+}
+
+.feature:hover {
+  background-color:#DEE2E2 ;
+  transition: background-color .4s ease-in;
+}
+
+.feature h2 {
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+.feature h2 i {
+    margin-right: 10px;
+}
+
+.feature a.btn {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  width: 50%;
+  display: block;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.section.features {
+  background-color: #eaf1f1;
+  
+}
+
+.hero {
+  
+  /*
+    Background image courtesy of https://www.flickr.com/photos/gnuckx/
+    under a CC By Attribution 2.0 license
+    https://creativecommons.org/licenses/by/2.0/
+  */
+  background-image: url('/assets/img/forge.png');
+  background-size: cover;
+  
+  text-align: center;
+  height: 35%;
+  max-height: 350px;
+  padding: 20px;
+  position: relative;
+}
+
+.hero-caption {
+  position: absolute;
+  top: 50%;
+  left:0;
+  right:0;
+  margin-top:-40px;
+    text-align: center;
+    color: white;
+}
+
