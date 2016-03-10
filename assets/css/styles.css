@@ -159,7 +159,7 @@ footer {
   position: relative;
   box-sizing: border-box;
   background: transparent;
-  transition: background-color .4s ease-out;
+  transition: background-color .3s ease-out;
   
 }
 .feature ul {
@@ -170,8 +170,8 @@ footer {
 }
 
 .feature:hover {
-  background-color:#DEE2E2 ;
-  transition: background-color .4s ease-in;
+  background-color:#E2E0DE ;
+  transition: background-color .3s ease-in;
 }
 
 .feature h2 {
@@ -195,7 +195,7 @@ footer {
 }
 
 .section.features {
-  background-color: #eaf1f1;
+  background-color: #F1EDEA;
   
 }
 
