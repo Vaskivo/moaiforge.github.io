@@ -1,2 +1,0 @@
-romJson={"package_uuid": "ad30886604f300b1eb9ad168a34dd6dc", "files": [{"filename": "/main.lua", "start": 0, "end": 272}], "directories": {}};
-romData="cHJpbnQgKCAnbWFpbi5sdWEnICkKCnByaW50ICggJ0FSR1M6JyApCgppZiBhcmcgdGhlbgoJcHJpbnQgKCBhcmcgWyAtMSBdKQoJcHJpbnQgKCBhcmcgWyAwIF0pCglmb3IgaSwgdiBpbiBpcGFpcnMgKCBhcmcgKSBkbwoJCXByaW50ICggaSwgdiApCgllbmQKZW5kCgpwYXJhbXMgPSBmdW5jdGlvbiAoIC4uLiApCglmb3IgaSwgdiBpbiBpcGFpcnMgKCBhcmcgKSBkbwoJCXByaW50ICggaSwgdiApCgllbmQKZW5kCgpwcmludCAoICdQQVJBTVM6JyApCnBhcmFtcyAoIC4uLiApCgo=";
