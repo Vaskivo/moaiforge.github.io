@@ -11,7 +11,7 @@ cd samples
 if not exist 2.0 mkdir 2.0
 cd 2.0
 
-call pito build-sample-browser
+call pito build-sample-browser %*
 
 copy /y %~dp0\build-samples-assets\style.css sample-browser\player\css\style.css
 
